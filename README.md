@@ -65,15 +65,6 @@ I enjoy creating digital experiences, learning emerging technologies, and sharin
 <img src="https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxx?style=for-the-badge&logo=youtube&label=YouTube"/>
 </a>
 
-<a href="https://medium.com" target="_blank">
-<img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -90,13 +81,6 @@ I enjoy creating digital experiences, learning emerging technologies, and sharin
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Praveen2092004&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
