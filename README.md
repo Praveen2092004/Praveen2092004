@@ -24,8 +24,6 @@ I enjoy architecting dynamic web platforms, exploring algorithm design, and solv
 * **[Project Management Portal](https://github.com/Praveen2092004/project-management-portal):** A complete MERN stack application built for the o2h hiring assessment featuring strict form validations, data-fetching states, and an interactive dark mode toggle.
 * ---
 
-## 🚀 Featured Projects
-
 ### ⚡ Project Management Portal (MERN Stack)
 A full-stack agile task-tracking system engineered to satisfy the rigorous technical requirements of the o2h hiring assessment framework.
 * **Repository:** [project-management-portal](https://github.com/Praveen2092004/project-management-portal)
@@ -48,10 +46,6 @@ A collection of core computational projects demonstrating Enterprise Java framew
 * **Repositories:** [WS2526-10211CS224-FULLSTACK-LABTASK-10](https://github.com/Praveen2092004/WS2526-10211CS224-FULLSTACK-LABTASK-10) & [FSD-E2](https://github.com/Praveen2092004/FSD-E2)
 * **Core Stack:** Java, JSP, Servlets, HTML, CSS
 
-### 🤖 Machine Learning Tracker (MLT)
-An analytical development workspace mapping out models, feature extraction algorithms, and predictive systems.
-* **Repository:** [MLT](https://github.com/Praveen2092004/MLT)
-* **Core Stack:** Python, Jupyter Notebook, Scikit-Learn / Deep Learning Libraries
 
 ### 💡 Fun Facts
 
