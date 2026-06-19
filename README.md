@@ -22,7 +22,7 @@ I enjoy architecting dynamic web platforms, exploring algorithm design, and solv
 
 ### ✨ Featured Project
 * **[Project Management Portal](https://github.com/Praveen2092004/project-management-portal):** A complete MERN stack application built for the o2h hiring assessment featuring strict form validations, data-fetching states, and an interactive dark mode toggle.
-* ---
+* 
 
 ### ⚡ Project Management Portal (MERN Stack)
 A full-stack agile task-tracking system engineered to satisfy the rigorous technical requirements of the o2h hiring assessment framework.
