@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Experiences;Always+Learning+and+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Java+%7C+Node.js;Computer+Science+Student;Always+Learning+and+Creating" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -16,40 +16,46 @@
 
 ## 🚀 About Me
 
-I'm **Bellamkonda Praveen**, a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications using React, TypeScript, and Node.js.
+I'm **Bellamkonda Praveen**, a B.Tech Computer Science and Engineering student at Vel Tech. I am a passionate **Full-Stack Developer** focused on building robust backend systems and responsive user interfaces using Java (Spring Boot) and the MERN stack.
 
-I enjoy creating digital experiences, learning emerging technologies, and sharing knowledge through content creation.
+I enjoy architecting dynamic web platforms, exploring algorithm design, and solving real-world challenges through code.
 
-### ✨ Fun Facts
+### ✨ Featured Project
+* **[Project Management Portal](https://github.com/Praveen2092004/project-management-portal):** A complete MERN stack application built for the o2h hiring assessment featuring strict form validations, data-fetching states, and an interactive dark mode toggle.
 
-* 💻 Passionate about clean UI and scalable frontend architecture
-* 🚀 Always exploring new web technologies and frameworks
-* 🎯 Love solving real-world problems with code
-* 📚 Continuous learner and tech enthusiast
-* 🎥 Interested in content creation and knowledge sharing
+### 💡 Fun Facts
+
+* 💻 Passionate about clean code architecture and optimal database design
+* 🚀 Experienced in working with both relational databases and NoSQL document stores
+* 🎯 Love diving deep into algorithms, complexity analysis, and technical problem-solving
+* 📚 Continuous learner keeping pace with emerging Full-Stack and AI web technologies
+* 🌾 Actively exploring machine learning applications for real-world sector optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### ⚙️ Backend
-
+### ⚙️ Backend & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🗄️ Databases & Hardware
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🔧 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
 ---
 
@@ -57,9 +63,9 @@ I enjoy creating digital experiences, learning emerging technologies, and sharin
 
 <p align="left">
 <a href="https://www.linkedin.com/in/praveen25512" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Praveen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Praveen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+</p>
 
 ---
 
@@ -77,7 +83,6 @@ I enjoy creating digital experiences, learning emerging technologies, and sharin
 
 ---
 
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -90,12 +95,12 @@ I enjoy creating digital experiences, learning emerging technologies, and sharin
 
 <p align="center">
 <a href="https://www.linkedin.com/in/praveen25512">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ---
 
-### 💡 Building modern web experiences, one project at a time.
+### 💡 Building scalable logic and fluid interfaces, one commit at a time.
 
 ⭐ If you like my work, consider following me and checking out my repositories!
