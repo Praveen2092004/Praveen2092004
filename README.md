@@ -20,8 +20,6 @@ I'm **Bellamkonda Praveen**, a B.Tech Computer Science and Engineering student a
 
 I enjoy architecting dynamic web platforms, exploring algorithm design, and solving real-world challenges through code.
 
-### ✨ Featured Project
-* **[Project Management Portal](https://github.com/Praveen2092004/project-management-portal):** A complete MERN stack application built for the o2h hiring assessment featuring strict form validations, data-fetching states, and an interactive dark mode toggle.
 
 
 ### ⚡ Project Management Portal (MERN Stack)
