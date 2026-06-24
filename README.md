@@ -16,11 +16,19 @@
 
 ## 🚀 About Me
 
-I'm **Bellamkonda Praveen**, a B.Tech Computer Science and Engineering student at Vel Tech. I am a passionate **Full-Stack Developer** focused on building robust backend systems and responsive user interfaces using Java (Spring Boot) and the MERN stack.
+I'm **Bellamkonda Praveen**, a B.Tech Computer Science and Engineering student at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology. I am a passionate **Full-Stack Developer** focused on building robust backend systems and responsive user interfaces using Java (Spring Boot) and the MERN stack.
 
 I enjoy architecting dynamic web platforms, exploring algorithm design, and solving real-world challenges through code.
 
+---
 
+## 🛠️ Featured Projects
+
+### 📊 Student Mini Project Management Portal (Full-Stack Production Track)
+An enterprise-grade, high-performance agile tracking system engineered with modern React design methodologies for the Klenty placement drive.
+* **Repository:** [student-project-management-portal](https://github.com/Praveen2092004/student-project-management-portal)
+* **Core Stack:** React 19, Vite, Node.js, Express, Tailwind CSS v4, Axios
+* **Key Features:** Real-time dashboard metric counters, native persistent browser `localStorage` Dark Mode handling, automated database In-Memory array fallback engines, responsive design layouts, client/server programmatic field validation guards, and sleek toast alerts with interactive confirmation modals.
 
 ### ⚡ Project Management Portal (MERN Stack)
 A full-stack agile task-tracking system engineered to satisfy the rigorous technical requirements of the o2h hiring assessment framework.
@@ -44,8 +52,9 @@ A collection of core computational projects demonstrating Enterprise Java framew
 * **Repositories:** [WS2526-10211CS224-FULLSTACK-LABTASK-10](https://github.com/Praveen2092004/WS2526-10211CS224-FULLSTACK-LABTASK-10) & [FSD-E2](https://github.com/Praveen2092004/FSD-E2)
 * **Core Stack:** Java, JSP, Servlets, HTML, CSS
 
+---
 
-### 💡 Fun Facts
+## 💡 Fun Facts
 
 * 💻 Passionate about clean code architecture and optimal database design
 * 🚀 Experienced in working with both relational databases and NoSQL document stores
