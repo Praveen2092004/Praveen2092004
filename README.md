@@ -31,6 +31,13 @@ An optimized full-stack e-commerce storefront integrating server-side relational
 * **Core Stack:** PHP (Object-Oriented MySQLi), JavaScript (ES6+), MySQL Relational DB, Apache Cloud Stack
 * **Key Features:** Full cross-layer cart state persistence utilizing browser local storage arrays, modular Glassmorphism product component grids, dynamic server-side wildcard query filters (`LIKE '%search%'`), secure session-validated user authentication pipelines, and transactional database staging workflows.
 
+### 🎟️ TECHFEST: Cloud-Deployed Event Ticket Booking Application (Full-Stack Componentry)
+A decoupled, production-grade full-stack event registration and booking architecture featuring centralized cloud database storage and cross-origin resource isolation.
+* **Repository:** [Ticket-booking-app](https://github.com/Praveen2092004/Ticket-booking-app)
+* **Live Deployment:** <a href="https://ticket-booking-app-tawny.vercel.app" target="_blank" rel="noopener noreferrer"><b>ticket-booking-app-tawny.vercel.app</b></a>
+* **Core Stack:** React (Create React App), Java (Spring Boot), Spring Data JPA, Cloud MySQL DB, Vercel Edge Framework, Render Cloud Infrastructure
+* **Key Features:** Cross-Origin Resource Sharing (CORS) secured API endpoints mapping student registration (`/api/students`) and event ticketing (`/api/bookings`) controllers, native transactional schema inserts, customized real-time dashboard UI states, and deep error-validated input handling pipelines.
+
 ### 📊 Student Mini Project Management Portal (Full-Stack Production Track)
 An enterprise-grade, high-performance agile tracking system engineered with modern React design methodologies for the Klenty placement drive.
 * **Repository:** [student-project-management-portal](https://github.com/Praveen2092004/student-project-management-portal)
@@ -42,11 +49,6 @@ A full-stack agile task-tracking system engineered to satisfy the rigorous techn
 * **Repository:** [project-management-portal](https://github.com/Praveen2092004/project-management-portal)
 * **Core Stack:** MongoDB, Express.js, React, Node.js, Axios
 * **Key Features:** Precise text-length form data validation, automated backend audit timestamps (`createdAt`), custom responsive CSS layouts, and an interactive dark-mode theme wrapper.
-
-### 🎟 Ticket Booking Application (Full-Stack Componentry)
-An interactive event booking platform focused on handling user inputs and managing dynamic real-time data states.
-* **Repository:** [Ticket-booking-app](https://github.com/Praveen2092004/Ticket-booking-app)
-* **Core Stack:** JavaScript, HTML5, CSS3, Web APIs
 
 ### ☕ Academic Full-Stack Lab Implementations (Java Tier)
 A collection of core computational projects demonstrating Enterprise Java frameworks, component architecture, and object-oriented engineering design.
@@ -84,6 +86,8 @@ A collection of core computational projects demonstrating Enterprise Java framew
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### 🔧 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
