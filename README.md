@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Java+%7C+Node.js;Computer+Science+Student;Always+Learning+and+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Java+%7C+PHP+%7C+MySQL;Computer+Science+Student;Always+Learning+and+Creating" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -16,13 +16,20 @@
 
 ## 🚀 About Me
 
-I'm **Bellamkonda Praveen**, a B.Tech Computer Science and Engineering student at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology. I am a passionate **Full-Stack Developer** focused on building robust backend systems and responsive user interfaces using Java (Spring Boot) and the MERN stack.
+I'm **Bellamkonda Praveen**, a B.Tech Computer Science and Engineering student at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology. I am a passionate **Full-Stack Developer** focused on building robust backend systems, relational database architectures, and highly responsive user interfaces using Java (Spring Boot), PHP ecosystem clusters, and the MERN stack.
 
 I enjoy architecting dynamic web platforms, exploring algorithm design, and solving real-world challenges through code.
 
 ---
 
 ## 🛠️ Featured Projects
+
+### 🚀 Responsive E-Commerce Architecture with State-Persistent Cart Matrix (Full-Stack Cloud Build)
+An optimized full-stack e-commerce storefront integrating server-side relational database management with client-side state caching.
+* **Repository:** [Techstore-ecommerce](https://github.com/Praveen2092004/Techstore-ecommerce)
+* **Live Deployment:** <a href="http://praveenstore.infinityfreeapp.com/index.php" target="_blank" rel="noopener noreferrer"><b>praveenstore.infinityfreeapp.com</b></a>
+* **Core Stack:** PHP (Object-Oriented MySQLi), JavaScript (ES6+), MySQL Relational DB, Apache Cloud Stack
+* **Key Features:** Full cross-layer cart state persistence utilizing browser local storage arrays, modular Glassmorphism product component grids, dynamic server-side wildcard query filters (`LIKE '%search%'`), secure session-validated user authentication pipelines, and transactional database staging workflows.
 
 ### 📊 Student Mini Project Management Portal (Full-Stack Production Track)
 An enterprise-grade, high-performance agile tracking system engineered with modern React design methodologies for the Klenty placement drive.
@@ -35,12 +42,6 @@ A full-stack agile task-tracking system engineered to satisfy the rigorous techn
 * **Repository:** [project-management-portal](https://github.com/Praveen2092004/project-management-portal)
 * **Core Stack:** MongoDB, Express.js, React, Node.js, Axios
 * **Key Features:** Precise text-length form data validation, automated backend audit timestamps (`createdAt`), custom responsive CSS layouts, and an interactive dark-mode theme wrapper.
-
-### 🛒 Responsive E-Commerce Cart (Stateful Web App)
-A persistent e-commerce application demonstrating backend session management and fluid item state tracking.
-* **Repository:** [responsive-ecommerce-cart](https://github.com/Praveen2092004/responsive-ecommerce-cart)
-* **Core Stack:** PHP, HTML5, CSS3, JavaScript
-* **Key Features:** Full cart state persistence, dynamic pricing updates, and structural relational mapping optimized for high-speed client interactions.
 
 ### 🎟 Ticket Booking Application (Full-Stack Componentry)
 An interactive event booking platform focused on handling user inputs and managing dynamic real-time data states.
@@ -57,7 +58,7 @@ A collection of core computational projects demonstrating Enterprise Java framew
 ## 💡 Fun Facts
 
 * 💻 Passionate about clean code architecture and optimal database design
-* 🚀 Experienced in working with both relational databases and NoSQL document stores
+* 🚀 Experienced in working with both relational SQL schema clusters and NoSQL document stores
 * 🎯 Love diving deep into algorithms, complexity analysis, and technical problem-solving
 * 📚 Continuous learner keeping pace with emerging Full-Stack and AI web technologies
 * 🌾 Actively exploring machine learning applications for real-world sector optimization
@@ -75,12 +76,14 @@ A collection of core computational projects demonstrating Enterprise Java framew
 ### ⚙️ Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### 🗄️ Databases & Hardware
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases & Hosting
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 🔧 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -125,7 +128,7 @@ A collection of core computational projects demonstrating Enterprise Java framew
 ## 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/praveen25512">
+<a href="https://www.linkedin.com/in/praveen25512" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
